@@ -1,4 +1,4 @@
-# Queue Monitor
+# <img src="https://raw.githubusercontent.com/AndrejRodic/AndrejRodic/main/assets/project-icons/queue-monitor.svg" width="32" height="32" alt="" /> Queue Monitor
 
 A published Chrome extension for watching competitive Minecraft queues in Discord Web and joining when a new queue opens.
 
